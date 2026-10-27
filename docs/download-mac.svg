@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="60" viewBox="0 0 264 60" role="img" aria-label="Mac용 다운로드">
+  <rect x="2" y="5" width="260" height="53" rx="15" fill="#477b9b"/>
+  <rect x="2" y="2" width="260" height="52" rx="15" fill="#d5eaf5" stroke="#477b9b" stroke-width="2"/>
+  <path d="M30 16v19m-7-7 7 7 7-7m-17 9v5h20v-5" fill="none" stroke="#315f80" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="153" y="35" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Apple SD Gothic Neo','Noto Sans KR',sans-serif" font-size="20" font-weight="700" fill="#315f80">Mac용 다운로드</text>
+</svg>
