@@ -1,44 +1,38 @@
-## ⬇️ Mac용 다운로드
+## 치이카와 키우기 0.6.0
 
-**[치이바 0.6.0 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.0/ChiiBar-macOS.zip)**
+같은 친구가 나와도 반가운 업데이트.
 
-macOS 14 이상 · Apple Silicon / Intel 공용
+**[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)**  
+무료 · macOS 14 이상 · Apple Silicon / Intel
 
-## 같은 친구가 나와도 반가워요 — 카드 합성
+**다운받으셨다면 우측 상단 ⭐ Star 한 번 눌러 주세요. 다음 업데이트에 힘이 됩니다.**
 
-중복 친구가 이제 카드로 모입니다. 같은 친구의 **기본 카드 3장 → UR 1장**, **UR 카드 3장 → SUR 1장**으로 합성해 새 모습을 만나세요. 중복 뽑기의 경험치 선물·뽑기권 환급은 카드 지급으로 바뀝니다.
+### 카드 3장, 새로운 모습 하나
 
-- 14종 친구 모두 전용 UR·SUR 외형을 준비했습니다. 어떤 모습인지는 합성해서 만나보세요.
-- 친구 모음에서 **‘합성 가능’** 표시가 뜬 카드를 누르면 바로 합성 화면으로 이동합니다.
-- 위의 기본·UR·SUR 카드를 직접 선택하세요. SUR은 최고 등급이라 더 합성하지 않습니다.
-- 아직 없는 등급은 실루엣으로 보이고, 합성에 성공하면 새 모습이 공개됩니다.
-- 카드가 모이며 반짝이는 변신 연출과 빛 고리·별·색종이 축하 효과를 더했습니다. 새 외형은 바로 착용됩니다.
+같은 친구의 기본 카드 3장 → **UR 1장**, UR 카드 3장 → **SUR 1장**.  
+친구 모음에서 ‘합성 가능’을 누르면 돼요. 새 모습은 직접 만나는 걸로.
 
-<img src="https://raw.githubusercontent.com/kitesik/ChiiBar-releases/main/docs/images/0.6.0/fusion-teaser.png" alt="미보유 UR·SUR 외형은 실루엣으로 숨긴 합성 화면" width="300">
+<img src="https://raw.githubusercontent.com/kitesik/ChiiBar-releases/main/docs/images/0.6.0/fusion-teaser.png" alt="우사기 카드 합성 화면. 미보유 외형은 실루엣" width="340">
 
-*새 모습은 합성하는 순간 공개돼요.*
+### 새 친구, 더 먼 집
 
-## 인어섬 친구들이 왔어요
+세이렌, 시마지로, 히토하·후타바, 인어가 합류했어요.  
+집은 **23단계**로 늘었어요. 다음 여행지 하나만 살짝 보여드릴게요.
 
-**세이렌, 시마지로, 히토하·후타바, 인어**가 합류합니다. 히토하·후타바는 두 친구가 함께 나오는 한 쌍의 카드예요.
+<img src="https://raw.githubusercontent.com/kitesik/ChiiBar-releases/main/docs/images/0.6.0/island-teaser.png" alt="꽃 왕관을 쓴 하치와레와 바다 위 대저택 섬" width="600">
 
-## 집이 23단계까지 늘어났어요
+### 처음이라면
 
-기존 펜트하우스 너머로 새로운 여행지가 열렸어요. 첫 여행지만 살짝 공개합니다. 나머지는 직접 집을 키우며 만나보세요!
+압축을 풀고 **ChiiBar.app**을 **응용 프로그램** 폴더로 옮겨 실행해요.  
+화면 맨 위 메뉴 막대의 캐릭터 아이콘을 누르면 시작이에요.
 
-<img src="https://raw.githubusercontent.com/kitesik/ChiiBar-releases/main/docs/images/0.6.0/island-teaser.png" alt="첫 여행지에서 꽃 왕관을 쓴 하치와레 — 이후 장소는 비공개" width="440">
+### 이미 키우고 있다면
 
-- 배경과 다음 집 미리보기는 사각 테두리 없이 장소의 윤곽대로 보여요.
-- 바다 위 대저택 섬에서는 굵고 투박한 선의 **꽃 왕관**을 씁니다.
-- 집 업그레이드 뒤 복잡한 경험치 차감·이월 문구를 덜어냈습니다.
+메뉴 막대 아이콘 우클릭 → **종료**한 뒤, 새 앱으로 **대치**해 주세요.  
+**친구·집·뽑기권은 유지돼요.** 저장 형식을 옮기기 전 원본을 백업해요.
 
-## 업데이트 안내
+기존 보유 친구는 기본 카드 1장부터 시작해요. 과거 중복 뽑기 횟수는 소급하지 않아요.
 
-실행 중인 치이바를 종료한 뒤 압축을 풀고 `ChiiBar.app`을 응용 프로그램 폴더에 덮어쓰세요. 기존 친구·집·뽑기권 기록은 유지되며, 저장 형식을 옮기기 전 백업을 남깁니다. 기존에 보유한 친구는 기본 카드 1장부터 시작하고, 이전 중복 뽑기 횟수는 소급하지 않습니다.
+현재 Apple 공증 전 버전이에요. 첫 실행이 차단되면 다운로드 출처를 확인하고 [Apple 안내](https://support.apple.com/ko-kr/102445)를 참고해 주세요.
 
-이전 배포와 동일하게 Apple 공증 전 버전입니다. 첫 실행이 차단되면 다운로드 출처를 확인하고 [Apple 실행 안내](https://support.apple.com/ko-kr/102445)를 참고하세요. 움직임 줄이기 설정을 지원하며, 로컬 초월모드는 일반 배포 화면에 나타나지 않습니다.
-
-`SHA256SUMS.txt`로 다운로드 파일의 무결성을 확인할 수 있습니다.
-
-검증: 74개 자동 검사 통과, 최종 배포 앱의 맵·합성 화면 렌더링, Apple Silicon·Intel 공용 바이너리와 코드 서명 확인.
-
+[설치·업데이트 안내](https://github.com/kitesik/ChiiBar-releases#설치) · 다운로드 무결성 확인: `SHA256SUMS.txt`
