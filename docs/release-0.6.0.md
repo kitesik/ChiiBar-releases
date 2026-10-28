@@ -1,5 +1,7 @@
 ## 치이카와 키우기 0.6.0
 
+비영리·수익 없는 비공식 팬 앱입니다.
+
 같은 친구가 나와도 반가운 업데이트.
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)**  
@@ -36,3 +38,4 @@
 현재 Apple 공증 전 버전이에요. 첫 실행이 차단되면 다운로드 출처를 확인하고 [Apple 안내](https://support.apple.com/ko-kr/102445)를 참고해 주세요.
 
 [설치·업데이트 안내](https://github.com/kitesik/ChiiBar-releases#설치) · 다운로드 무결성 확인: `SHA256SUMS.txt`
+
