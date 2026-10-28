@@ -10,7 +10,7 @@ Mac에서 공부하고 일한 시간으로 친구의 집을 키워요.
 [![Mac용 다운로드](docs/download-mac.svg)](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
-최신 버전 **0.6.0** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
+최신 버전 **0.6.1** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
 
 **다운받으셨다면 우측 상단 ⭐ Star 한 번 눌러 주세요. 다음 업데이트에 힘이 됩니다.**
 
