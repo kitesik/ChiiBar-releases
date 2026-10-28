@@ -1,5 +1,7 @@
 # 치이카와 키우기
 
+비영리·수익 없는 비공식 팬 앱입니다.
+
 **할 일은 평소처럼. 친구는 곁에.**
 
 Mac에서 공부하고 일한 시간으로 친구의 집을 키워요.  
@@ -10,8 +12,7 @@ Mac에서 공부하고 일한 시간으로 친구의 집을 키워요.
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
 최신 버전 **0.6.0** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
 
-**다운받으셨다면 우측 상단 ⭐ Star 한 번 눌러 주세요. 다음 업데이트에 힘이 됩니다.**  
-<sub>휴대폰에서는 저장소 상단에 있어요. GitHub 로그인이 필요해요.</sub>
+**다운받으셨다면 우측 상단 ⭐ Star 한 번 눌러 주세요. 다음 업데이트에 힘이 됩니다.**
 
 <img src="docs/images/0.6.0/island-teaser.png" alt="꽃 왕관을 쓴 하치와레와 바다 위 대저택 섬 — 실제 게임 화면" width="600">
 
