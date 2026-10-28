@@ -41,8 +41,6 @@ macOS 14 이상 · Apple Silicon / Intel 공용
 
 실행 중인 치이바를 종료한 뒤 압축을 풀고 `ChiiBar.app`을 응용 프로그램 폴더에 덮어쓰세요. 기존 친구·집·뽑기권 기록은 유지되며, 저장 형식을 옮기기 전 백업을 남깁니다. 기존에 보유한 친구는 기본 카드 1장부터 시작하고, 이전 중복 뽑기 횟수는 소급하지 않습니다.
 
-Homebrew: `brew update && brew upgrade --cask kitesik/tap/chiibar`
-
 이전 배포와 동일하게 Apple 공증 전 버전입니다. 첫 실행이 차단되면 다운로드 출처를 확인하고 [Apple 실행 안내](https://support.apple.com/ko-kr/102445)를 참고하세요. 움직임 줄이기 설정을 지원하며, 로컬 초월모드는 일반 배포 화면에 나타나지 않습니다.
 
 `SHA256SUMS.txt`로 다운로드 파일의 무결성을 확인할 수 있습니다.
