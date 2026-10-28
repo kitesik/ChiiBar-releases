@@ -14,7 +14,7 @@
 같은 친구의 기본 카드 3장 → **UR 1장**, UR 카드 3장 → **SUR 1장**.  
 친구 모음에서 ‘합성 가능’을 누르면 돼요. 새 모습은 직접 만나는 걸로.
 
-<img src="https://raw.githubusercontent.com/kitesik/ChiiBar-releases/main/docs/images/0.6.0/fusion-teaser.png" alt="우사기 카드 합성 화면. 미보유 외형은 실루엣" width="340">
+<img src="https://raw.githubusercontent.com/kitesik/ChiiBar-releases/main/docs/images/0.6.0/fusion-teaser-fit.png" alt="우사기 카드 합성 화면. 미보유 외형은 실루엣" width="340">
 
 ### 새 친구, 더 먼 집
 
