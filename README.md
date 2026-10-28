@@ -2,11 +2,6 @@
 
 비영리·수익 없는 비공식 팬 앱입니다.
 
-**할 일은 평소처럼. 친구는 곁에.**
-
-Mac에서 공부하고 일한 시간으로 친구의 집을 키워요.  
-가끔 새 친구를 뽑고, 바탕화면에서 산책도 해요.
-
 [![Mac용 다운로드](docs/download-mac.svg)](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
