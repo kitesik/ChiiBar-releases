@@ -1,0 +1,45 @@
+name: Download statistics
+
+on:
+  schedule:
+    - cron: '17 23 * * *' # 08:17 Asia/Seoul
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/download-stats.yml'
+      - 'scripts/track_downloads.py'
+      - 'scripts/test_track_downloads.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: download-statistics
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Check collector
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Collect download counts
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/track_downloads.py
+      - name: Save history and report
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add stats/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'stats: record release download counts'
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Show statistics
+        run: cat stats/README.md >> "$GITHUB_STEP_SUMMARY"

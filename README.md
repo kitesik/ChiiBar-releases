@@ -7,6 +7,8 @@
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
 최신 버전 **0.6.6** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
 
+[다운로드 통계](stats/README.md) · 매일 자동 갱신 · 인원수가 아닌 다운로드 횟수
+
 **다운받으셨다면 우측 상단 ⭐ Star 한 번 눌러 주세요. 다음 업데이트에 힘이 됩니다.**
 
 <img src="docs/images/0.6.0/island-teaser.png" alt="꽃 왕관을 쓴 하치와레와 바다 위 대저택 섬 — 실제 게임 화면" width="600">
