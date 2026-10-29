@@ -5,7 +5,7 @@
 [![Mac용 다운로드](docs/download-mac.svg)](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
-최신 버전 **0.6.1** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
+최신 버전 **0.6.6** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
 
 **다운받으셨다면 우측 상단 ⭐ Star 한 번 눌러 주세요. 다음 업데이트에 힘이 됩니다.**
 
@@ -24,6 +24,8 @@
 
 같은 친구 카드 **3장**을 모으면 새 모습으로 합성할 수 있어요.  
 기본 → **UR** → **SUR**. 아직 없는 모습은 비밀이에요.
+
+업그레이드 후에도 이전 모습으로 돌아갈 수 있어요. 원하는 모습을 누른 뒤 친구 선택 버튼을 누르면 돼요. 선택한 모습은 다음 실행에도 그대로예요.
 
 <img src="docs/images/0.6.0/fusion-teaser-fit.png" alt="우사기 카드 3장으로 합성하는 화면. 아직 없는 UR·SUR 모습은 실루엣으로 표시" width="340">
 
