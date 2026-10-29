@@ -5,7 +5,7 @@
 [![Mac용 다운로드](docs/download-mac.svg)](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
-최신 버전 **0.6.6** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
+최신 버전 **0.6.7** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
 
 [다운로드 통계](stats/README.md) · 매일 자동 갱신 · 인원수가 아닌 다운로드 횟수
 
