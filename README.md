@@ -5,7 +5,7 @@
 [![Mac용 다운로드](docs/download-mac.svg)](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
-최신 버전 **0.6.9** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
+최신 버전 **0.6.10** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
 
 [다운로드 통계](stats/README.md) · 매일 자동 갱신 · 인원수가 아닌 다운로드 횟수
 
@@ -21,6 +21,7 @@
 - 활동 **1시간마다 뽑기권 1장**. 새 친구를 만나요.
 - **산책가자!**를 누르면 친구가 바탕화면을 걸어요.
 - **토벌**에 친구들을 함께 보내요. 10분 뒤 성공한 친구마다 뽑기권 **2장**을 받아요.
+- 오늘의 활동 **4시간** 달성 시 하루 한 번 **티켓 3개 + 240,000 XP**를 받아요.
 - 집은 **23단계**. 어디까지 갈지는 조금씩 알아가는 걸로.
 
 ## 카드 모아 업그레이드
@@ -28,7 +29,7 @@
 같은 친구 카드 **3장**을 모으면 새 모습으로 합성할 수 있어요.  
 기본 → **UR** → **SUR**. 아직 없는 모습은 비밀이에요.
 
-업그레이드 후에도 이전 모습으로 돌아갈 수 있어요. 원하는 모습을 누른 뒤 친구 선택 버튼을 누르면 돼요. 선택한 모습은 다음 실행에도 그대로예요.
+업그레이드 후에도 이전 모습으로 돌아갈 수 있어요. 원하는 모습을 누른 뒤 친구 선택 버튼을 누르면 돼요. 선택한 모습은 친구 모음에도 표시되고, 다음 실행에도 그대로예요.
 
 <img src="docs/images/0.6.0/fusion-teaser-fit.png" alt="우사기 카드 3장으로 합성하는 화면. 아직 없는 UR·SUR 모습은 실루엣으로 표시" width="340">
 
