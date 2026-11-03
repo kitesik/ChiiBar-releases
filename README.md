@@ -5,7 +5,7 @@
 [![Mac용 다운로드](docs/download-mac.svg)](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
-최신 버전 **0.6.8** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
+최신 버전 **0.6.9** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
 
 [다운로드 통계](stats/README.md) · 매일 자동 갱신 · 인원수가 아닌 다운로드 횟수
 
@@ -20,7 +20,7 @@
 - 키보드·마우스로 활동하면 집을 키우는 에너지가 쌓여요.
 - 활동 **1시간마다 뽑기권 1장**. 새 친구를 만나요.
 - **산책가자!**를 누르면 친구가 바탕화면을 걸어요.
-- **토벌**에 친구들을 함께 보내요. 5분 뒤 성공한 친구마다 뽑기권 **2장**을 받아요.
+- **토벌**에 친구들을 함께 보내요. 10분 뒤 성공한 친구마다 뽑기권 **2장**을 받아요.
 - 집은 **23단계**. 어디까지 갈지는 조금씩 알아가는 걸로.
 
 ## 카드 모아 업그레이드
