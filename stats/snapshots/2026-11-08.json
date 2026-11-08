@@ -1,0 +1,75 @@
+{
+  "collected_at": "2026-11-08T11:29:30+09:00",
+  "assets": [
+    {
+      "id": 709768561,
+      "version": "v0.6.12",
+      "downloads": 19
+    },
+    {
+      "id": 709737956,
+      "version": "v0.6.11",
+      "downloads": 2
+    },
+    {
+      "id": 705912921,
+      "version": "v0.6.10",
+      "downloads": 20
+    },
+    {
+      "id": 704593347,
+      "version": "v0.6.9",
+      "downloads": 4
+    },
+    {
+      "id": 703551277,
+      "version": "v0.6.8",
+      "downloads": 29
+    },
+    {
+      "id": 688924639,
+      "version": "v0.6.7",
+      "downloads": 38
+    },
+    {
+      "id": 687450342,
+      "version": "v0.6.6",
+      "downloads": 8
+    },
+    {
+      "id": 687076147,
+      "version": "v0.6.5",
+      "downloads": 10
+    },
+    {
+      "id": 686957623,
+      "version": "v0.6.4",
+      "downloads": 1
+    },
+    {
+      "id": 686944829,
+      "version": "v0.6.3",
+      "downloads": 1
+    },
+    {
+      "id": 686933273,
+      "version": "v0.6.2",
+      "downloads": 1
+    },
+    {
+      "id": 685465296,
+      "version": "v0.6.1",
+      "downloads": 6
+    },
+    {
+      "id": 685292610,
+      "version": "v0.6.0",
+      "downloads": 7
+    },
+    {
+      "id": 680404119,
+      "version": "v0.5.10",
+      "downloads": 15
+    }
+  ]
+}
