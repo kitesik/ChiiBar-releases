@@ -5,7 +5,11 @@
 [![Mac용 다운로드](docs/download-mac.svg)](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
-최신 버전 **0.6.12** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
+최신 버전 **0.6.13** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
+
+**[Windows 설치 파일](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.13/ChiiBar-Windows-Setup-0.6.13.exe)** · **[Windows 압축 버전](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.13/ChiiBar-Windows-0.6.13-x64.zip)** · Windows 10/11 64비트
+
+설치 파일을 실행하거나, 압축 버전을 모두 풀고 `ChiiBar.exe`를 실행해 주세요. 저장 기록은 PC에 보관돼요. 최초 실행 때 서명되지 않은 게시자 안내가 표시될 수 있어요.
 
 [다운로드 통계](stats/README.md) · 매일 자동 갱신 · 인원수가 아닌 다운로드 횟수
 
@@ -21,7 +25,7 @@
 - 활동 **1시간마다 뽑기권 1장**. 새 친구를 만나요.
 - **산책가자!**를 누르면 친구가 바탕화면을 걸어요.
 - **토벌**에 친구들을 함께 보내요. 10분 뒤 성공한 친구마다 뽑기권 **2장**을 받아요.
-- 오늘의 활동 **4시간** 달성 시 하루 한 번 **티켓 3개 + 240,000 XP**를 받아요.
+- Mac에서 오늘의 활동 **4시간** 달성 시 하루 한 번 **티켓 3개 + 240,000 XP**를 받아요.
 - 집은 **23단계**. 어디까지 갈지는 조금씩 알아가는 걸로.
 
 ## 카드 모아 업그레이드
