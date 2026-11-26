@@ -5,9 +5,9 @@
 [![Mac용 다운로드](docs/download-mac.svg)](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
-최신 버전 **0.6.14** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
+최신 버전 **0.6.15** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
 
-**[Windows 설치 파일](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.14/ChiiBar-Windows-Setup-0.6.14.exe)** · **[Windows 압축 버전](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.14/ChiiBar-Windows-0.6.14-x64.zip)** · Windows 10/11 64비트
+**[Windows 설치 파일](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.15/ChiiBar-Windows-Setup-0.6.15.exe)** · **[Windows 압축 버전](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.15/ChiiBar-Windows-0.6.15-x64.zip)** · Windows 10/11 64비트
 
 설치 파일을 실행하거나, 압축 버전을 모두 풀고 `ChiiBar.exe`를 실행해 주세요. 저장 기록은 PC에 보관돼요. 최초 실행 때 서명되지 않은 게시자 안내가 표시될 수 있어요.
 
