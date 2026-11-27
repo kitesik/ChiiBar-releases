@@ -5,9 +5,9 @@
 [![Mac용 다운로드](docs/download-mac.svg)](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)
 
 **[Mac용 다운로드](https://github.com/kitesik/ChiiBar-releases/releases/latest/download/ChiiBar-macOS.zip)** · 무료 · macOS 14 이상 · Apple Silicon / Intel  
-최신 버전 **0.6.15** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
+최신 버전 **0.6.16** · [업데이트 내용](https://github.com/kitesik/ChiiBar-releases/releases/latest)
 
-**[Windows 설치 파일](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.15/ChiiBar-Windows-Setup-0.6.15.exe)** · **[Windows 압축 버전](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.15/ChiiBar-Windows-0.6.15-x64.zip)** · Windows 10/11 64비트
+**[Windows 설치 파일](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.16/ChiiBar-Windows-Setup-0.6.16.exe)** · **[Windows 압축 버전](https://github.com/kitesik/ChiiBar-releases/releases/download/v0.6.16/ChiiBar-Windows-0.6.16-x64.zip)** · Windows 10/11 64비트
 
 설치 파일을 실행하거나, 압축 버전을 모두 풀고 `ChiiBar.exe`를 실행해 주세요. 저장 기록은 PC에 보관돼요. 최초 실행 때 서명되지 않은 게시자 안내가 표시될 수 있어요.
 
@@ -50,8 +50,9 @@
 
 ## 이미 키우고 있다면
 
-메뉴 막대 아이콘 우클릭 → **종료**. 새 앱을 응용 프로그램 폴더에 옮기고 **대치**하면 돼요.  
-**친구·집·뽑기권은 그대로 남아요.** 자동 업데이트는 아직 없어요.
+Mac 0.6.16부터 메뉴에서 **업데이트 확인**을 누르면 설치 방식에 맞춰 업데이트할 수 있어요.
+
+이전 버전은 메뉴 막대 아이콘 우클릭 → **종료** 후 새 앱을 응용 프로그램 폴더에 옮기고 **대치**해 주세요. **친구·집·뽑기권은 그대로 남아요.**
 
 <details>
 <summary>Homebrew로 설치한 경우</summary>
